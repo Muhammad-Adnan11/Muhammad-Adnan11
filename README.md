@@ -5,14 +5,15 @@
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: adnankhalil984@gmail.comt
 - ⚡ Fun fact: I'm comming to teen
+- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/Muhammad-Adnan11">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
- <a href="https://www.linkedin.com/in/muhammad-adnan-1a2d3n4a5n/">
-    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
+  <a href="https://www.linkedin.com/in/muhammad-adnan-1a2d3n4a5n/">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=Github&logoColor=white" alt="linkedin Badge"/>
   </a>
 <!--   <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -27,6 +28,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
