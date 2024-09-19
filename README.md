@@ -30,7 +30,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,java,postman,figma,xd&perline=5)](https://skillicons.dev)
 
 ![Muhammad Adnan GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Adnan&show_icons=true&theme=dark)
 
