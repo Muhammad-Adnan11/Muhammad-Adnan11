@@ -17,7 +17,7 @@
 <!--   <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> -->
-   <a href="https://www.instagram.com/axif_taj">
+   <a href="https://www.instagram.com/adnan1234code/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://www.facebook.com/profile.php?id=100078137176693">
