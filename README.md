@@ -2,8 +2,8 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: adnankhalil984@gmail.comt
-- ⚡ Fun fact: I'm comming to teen
+- 📫 How to reach me: adnankhalil984@gmail.com
+- ⚡ Fun fact: I'm coming to teen 😄
 - <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   
 ### Connect with me:
@@ -29,7 +29,7 @@
 </div>
 
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,java,postman,figma,xd&perline=5)](https://skillicons.dev)
 
 ![Muhammad Adnan GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Adnan11&show_icons=true&theme=dark)
