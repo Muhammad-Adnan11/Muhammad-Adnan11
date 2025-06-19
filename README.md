@@ -40,7 +40,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Adnan11&layout=compact&theme=dark)
 
-
+---
 
 <br>
 ⭐️ From [Muhammad Adnan](https://github.com/Muhammad-Adnan11)
