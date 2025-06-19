@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adnan</h1>
-- 🔭 I’m currently working on **Flutter** <br>
+🔭 I’m currently working on **Flutter** <br>
 - 🌱 I’m currently learning Backend <br>
 - 💬 Ask me anything about Flutter <br>
 - 📫 How to reach me: [adnankhalil984@gmail.com](mailto:adnankhalil984@gmail.com) <br>
