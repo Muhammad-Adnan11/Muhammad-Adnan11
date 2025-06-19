@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muhammad Adnan</h1>
-- 🔭 I’m currently working on Flutter<br>
-- 🌱 I’m currently learning Backend <br>
-- 💬 Ask me anything about Flutter <br>
-- 📫 How to reach me: [adnankhalil984@gmail.com](mailto:adnankhalil984@gmail.com)<br>
+# Hi 👋, I'm Muhammad Adnan
+
+- 🔭 I’m currently working on **Flutter**
+- 🌱 I’m currently learning **Backend**
+- 💬 Ask me anything about **Flutter**
+- 📫 How to reach me: [**adnankhalil984@gmail.com**](mailto:adnankhalil984@gmail.com)
 - ⚡ Fun fact: I'm coming to teen 😄
 
 ---
